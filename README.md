@@ -105,9 +105,10 @@
 *그 외 문의사항은 문의주세요 빠르게 답변드릴게요*
 
 ## 게임목록
-1. 고요속의 외침(참고 : https://youtu.be/m8ErKPVo2RU?si=19DB3Njd9eqptGBV)
-2. 병뚜껑 까기(참고 : https://youtu.be/EB2yxCk4cq0?si=Vx9dTm_ypzxrrbSH)
+1. 고요속의 외침(참고 : https://youtu.be/m8ErKPVo2RU?si=19DB3Njd9eqptGBV), 자료필요(키워드/4글자)
+2. 병뚜껑 까기(참고 : https://youtu.be/EB2yxCk4cq0?si=Vx9dTm_ypzxrrbSH), 병뚜껑필요
 3. 가위바위보 다리 찢기(참고 : https://youtu.be/bibOy3XQYzY?si=sUZ8l4JWF3xPVyEq)
-4. 인물 맞추기(참고 : https://youtu.be/fhy6rxre-rc?si=yVK8Op00r8xU6HXZ)
+4. 인물 맞추기(참고 : https://youtu.be/fhy6rxre-rc?si=yVK8Op00r8xU6HXZ), 자료필요(사람 얼굴 : 인터넷 사이트, 유튜브 영상)
 5. 수건 돌리기(참고 : https://youtu.be/paimEULjLIw?si=yIB5EirtkKfxcOME)
-6. 앞잡이 퀴즈(참고 : https://youtu.be/BzPyCk4wJIE?si=cYbtsxfKT1i4Ucci&t=669)
+6. 앞잡이 퀴즈(참고 : https://youtu.be/BzPyCk4wJIE?si=cYbtsxfKT1i4Ucci&t=669), 자료필요(퀴즈 키워드)
+7. 주루마블(술 안먹을거면 거짓말 탐지기)
