@@ -112,3 +112,4 @@
 5. 수건 돌리기(참고 : https://youtu.be/paimEULjLIw?si=yIB5EirtkKfxcOME)
 6. 앞잡이 퀴즈(참고 : https://youtu.be/BzPyCk4wJIE?si=cYbtsxfKT1i4Ucci&t=669), 자료필요(퀴즈 키워드)
 7. 주루마블(술 안먹을거면 거짓말 탐지기)
+8. 보드게임(달무티 등)
